@@ -7,4 +7,8 @@ https://arxiv.org/abs/2005.09007
 # Architecture 
 ![](architecture.jpg)
 
+# Result - ONNX inference 
+![](katy.jpg)
+![](katy_op.jpg)
+
 
